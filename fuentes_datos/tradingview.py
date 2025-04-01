@@ -1,0 +1,1 @@
+# Obtener indicadores de TradingView

@@ -1,0 +1,1 @@
+# Funciones para indicadores técnicos
